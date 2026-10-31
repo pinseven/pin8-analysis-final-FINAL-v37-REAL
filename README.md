@@ -1,2 +1,7 @@
 # pin8-analysis-final-FINAL-v37-REAL
-the GOOD one
+
+20k page analysis on pin 8s entire existance
+
+small side project lol
+
+ANALYSIS-FINAL.md
